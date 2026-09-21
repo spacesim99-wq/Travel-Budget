@@ -1,0 +1,11 @@
+{
+  "name":"Travel Budget",
+  "short_name":"Travel Budget",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f5f6f8",
+  "theme_color":"#f5f6f8",
+  "description":"Budget di viaggio offline e locale",
+  "icons":[]
+}
